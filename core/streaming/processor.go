@@ -81,7 +81,7 @@ func (p Processor) NewProcess(URI string) *exec.Cmd {
 		"copy",
 		"-movflags",
 		"frag_keyframe+empty_moov",
-		"-an",
+		//"-an",
 		"-hls_flags",
 		p.getHLSFlags(),
 		"-f",
