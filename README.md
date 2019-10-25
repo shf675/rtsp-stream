@@ -1,3 +1,6 @@
+# 修改无声音问题
+dockerhub地址：https://hub.docker.com/r/shf675/rtsp-stream
+
 # <img src="./rtsp-stream.png"/>
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/Roverr/rtsp-stream)](https://goreportcard.com/report/github.com/Roverr/rtsp-stream)
